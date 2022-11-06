@@ -29,7 +29,8 @@ description: 'This dataset is the group-weight BMI experiment data. '
 ethicsApproval: []
 id: DANDI:000338/draft
 identifier: DANDI:000338
-keywords: []
+keywords:
+- 'BCI BMI '
 license:
 - spdx:CC0-1.0
 manifestLocation:
@@ -40,7 +41,8 @@ relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.3
-studyTarget: []
+studyTarget:
+- 'The groupweight paradigm utilize users to learn BCI control '
 url: https://dandiarchive.org/dandiset/000338/draft
 version: draft
 wasGeneratedBy: []
